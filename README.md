@@ -10,9 +10,7 @@ Este projeto representa, em Java, a ideia apresentada no **lançamento do iPhone
 
 ## 📊 Diagrama UML
 
-O diagrama de classes abaixo mostra como o **iPhone** implementa três interfaces que representam suas funcionalidades:
-
-(UML IPHONE.png)
+O diagrama de classes esta disponivel no projeto, ele mostra como o **iPhone** implementa três interfaces que representam suas funcionalidades:
 
 ---
 
